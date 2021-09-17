@@ -1,6 +1,6 @@
 const provider = window.ethereum;
 const BinanceSmartChainId = '0x38';
-const tokenAddress = '0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69';
+const tokenAddress = '0x62f0af40a943c5db50acf941a025c08edbdbbf0e';
 const tokenSymbol = 'WBEET';
 const tokenDecimals = 8;
 const tokenImage = 'https://i.imgur.com/p0XYKTs.png';
