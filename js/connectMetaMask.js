@@ -3,7 +3,7 @@ const BinanceSmartChainId = '0x38';
 const tokenAddress = '0x62f0af40a943c5db50acf941a025c08edbdbbf0e';
 const tokenSymbol = 'WBEET';
 const tokenDecimals = 8;
-const tokenImage = 'https://i.imgur.com/p0XYKTs.png';
+const tokenImage = 'https://i.imgur.com/tkuPlkt.png';
 
 /** Connect to Wrapped NewYorkCoin */
 const setupBinanceSmartChain = async () => {
