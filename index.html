@@ -4,17 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name = "keywords" content = "Crypto, WBEET, Wrapped-BeetleCoin" />
-    <meta name = "description" content = "Wrapped-BeetleCoin" />
+    <meta name = "keywords" content = "Crypto, BEET, BeetleCoin" />
+    <meta name = "description" content = "BeetleCoin" />
 	  
     
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://beetledev.github.io/" />
     <meta property="og:image" content="https://beetledev.github.io/img/wbeet.png" />
-    <meta property="og:description" content="WBEET stands for Wrapped BeetleCoin, This Connector Adds the BSC mainnet to metamask if you don't already have it along with Wrapped BeetleCoin and logo" />
+    <meta property="og:description" content="BEET stands for BeetleCoin, This Connector Adds the BSC mainnet to metamask if you don't already have it along with BeetleCoin and logo" />
 
-    <title>Wrapped BeetleCoin</title>
+    <title>BeetleCoin</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
     <link rel="stylesheet" href="css/all.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -37,14 +37,14 @@
               <div class="tm-section-wrap">
                 <section id="intro" class="tm-section">
                     <div class="tm-bg-grey-transparent tm-intro">
-                      <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Get connected to the Binance Smart Chain Network and add Wrapped BeetleCoin</h2>
+                      <h2 class="tm-section-title mb-5 text-uppercase tm-color-primary">Get connected to the Binance Smart Chain Network and add BeetleCoin</h2>
                         <ul class="list-steps">
                           <li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".1s">
                             <div class="list-steps__item-counter"></div>
                             <div class="list-steps__item-divider"></div>
                             <div class="list-steps__item-main">
                               <h4><a href="#">MetaMask one click and add</a></h4>
-                                <button class="connectMetaMask">Enable Binance Smart Chain & Add WBEET</button>
+                                <button class="connectMetaMask">Enable Binance Smart Chain & Add BEET</button>
                             </div>
                           </li>
                         </ul>
