@@ -1,7 +1,7 @@
 const provider = window.ethereum;
 const BinanceSmartChainId = '0x38';
-const tokenAddress = '0x62f0af40a943c5db50acf941a025c08edbdbbf0e';
-const tokenSymbol = 'WBEET';
+const tokenAddress = '0x3D42e635A7Ffa160D8Dd18a00c158D79984d003d';
+const tokenSymbol = 'BEET';
 const tokenDecimals = 8;
 const tokenImage = 'https://i.imgur.com/tkuPlkt.png';
 
